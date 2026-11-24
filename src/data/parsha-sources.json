@@ -1,0 +1,105 @@
+{
+ "sources": [
+  {
+   "list": "PLW7IzeMF_qF8pCfd1mlHeRR0IsgdydZ-G",
+   "label": "Parsha Puppet Show",
+   "showId": "parsha-puppet-show"
+  },
+  {
+   "list": "PLG3b4l3ET_iy6cn904RnoeZYLDuOAchn0",
+   "label": "Shazak",
+   "showId": "shazak-parsha"
+  },
+  {
+   "list": "PL_InvXmklc5i-_s6R-RyL3WwDlYzomN3M",
+   "label": "Parsha Studio",
+   "showId": "jcm-parsha-crafts"
+  },
+  {
+   "list": "PL_InvXmklc5jaWAFe1RxuY-d7wE_3NmsR",
+   "label": "Parsha Studio",
+   "showId": "jcm-parsha-baking"
+  },
+  {
+   "list": "PL_InvXmklc5h8CVZy7qeNEQWPf7Qa5WJt",
+   "label": "Parsha Studio",
+   "showId": "jcm-parsha-crafts"
+  },
+  {
+   "list": "PLU-lLm6G_4cU",
+   "label": "Zaidy's Parsha",
+   "showId": "zaidy-parsha"
+  },
+  {
+   "list": "PLcmpd_l0Ylu5HO8RHc2kMWk8VixRCvhQR",
+   "label": "Hidabroot",
+   "showId": "hidabroot-parsha"
+  },
+  {
+   "list": "PLvaD2rvBEdNwuI4gno-KsXgMxqSnnottF",
+   "label": "Zeidie's World",
+   "showId": "zeidies-world"
+  },
+  {
+   "list": "PL99OgfyNFEoYFyLPFvxx6pyA7RUm7d4P5",
+   "label": "BYG Parsha Films",
+   "showId": "byg-weekly-parsha"
+  }
+ ],
+ "aliases": {
+  "Bereshit": "bereishi[st]|bereshi[st]|bereishees",
+  "Noach": "\\bnoach\\b",
+  "Lech-Lecha": "lech ?lecha",
+  "Vayera": "vayei?ra\\b",
+  "Chayei Sara": "chayei? ?sara",
+  "Toldot": "tol[dc]o[st]",
+  "Vayetzei": "vayei?tze",
+  "Vayishlach": "vayishlach",
+  "Vayeshev": "vayei?shev",
+  "Miketz": "mi?kei?tz",
+  "Vayigash": "vayigash",
+  "Vayechi": "vayechi",
+  "Shemot": "shemo[st]|shmo[st]",
+  "Vaera": "va ?eira|vaera",
+  "Bo": "parsh\\w* bo\\b|\\bbo parsh|shazak bo$",
+  "Beshalach": "beshalach",
+  "Yitro": "yi[st]ro",
+  "Mishpatim": "mishpatim",
+  "Terumah": "terum",
+  "Tetzaveh": "te[tsz]+aveh",
+  "Ki Tisa": "ki [st]isa",
+  "Vayakhel": "vayakhel",
+  "Pekudei": "pekudei",
+  "Vayikra": "vayikra",
+  "Tzav": "\\bt[sz]av\\b",
+  "Shmini": "she?mini",
+  "Tazria": "tazria",
+  "Metzora": "met[sz]ora",
+  "Achrei Mot": "achare?i\\b",
+  "Kedoshim": "kedoshim",
+  "Emor": "\\bemor\\b",
+  "Behar": "\\bbehar\\b",
+  "Bechukotai": "bechuko[st]",
+  "Bamidbar": "bamidbar",
+  "Nasso": "\\bnaso\\b|\\bnasso\\b",
+  "Beha'alotcha": "beha ?alo[st]e?cha|bahaalo[st]e?cha",
+  "Sh'lach": "shel?ach\\b|shlach",
+  "Korach": "\\bkorach\\b",
+  "Chukat": "chuka[st]",
+  "Balak": "\\bbalak\\b",
+  "Pinchas": "pinchas",
+  "Matot": "ma[t]+o[st]\\b",
+  "Masei": "masei",
+  "Devarim": "devarim",
+  "Vaetchanan": "va ?e[st]chanan",
+  "Eikev": "eikev|ekev",
+  "Re'eh": "\\bre ?eh\\b",
+  "Shoftim": "shoftim",
+  "Ki Teitzei": "ki [st]ei?tzei",
+  "Ki Tavo": "ki [st]avo",
+  "Nitzavim": "nitzavim",
+  "Vayeilech": "vayei?lech",
+  "Ha'azinu": "ha ?azinu",
+  "Vezot Haberakhah": "v ?e?zo[st] ha ?be?ra?cha"
+ }
+}

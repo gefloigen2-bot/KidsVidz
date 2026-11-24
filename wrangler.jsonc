@@ -1,0 +1,7 @@
+{
+  // Whole site ships as one Worker (assets embedded by scripts/embed-assets.mjs).
+  "name": "koshertube-kids",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": true
+}
