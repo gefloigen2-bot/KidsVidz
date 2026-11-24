@@ -6,7 +6,7 @@ import './index.css';
 // Offline: cache the app shell + thumbnail images (production builds only).
 if ('serviceWorker' in navigator && import.meta.env.PROD) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js').catch(() => {});
+    navigator.serviceWorker.register('sw.js').catch(() => {});
   });
 }
 

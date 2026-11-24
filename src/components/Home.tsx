@@ -141,7 +141,7 @@ export default function Home({ shows, recent, onPlay, onLock }: Props) {
   return (
     <div className="min-h-dvh bg-amber-50 bg-[radial-gradient(circle_at_20%_10%,#fde68a_0,transparent_40%),radial-gradient(circle_at_90%_80%,#bfdbfe_0,transparent_40%)] pb-24">
       <div className="flex items-center gap-3 px-4 pt-3 sm:px-6 sm:pt-4">
-        <img src="/icon.svg" alt="" className="h-9 w-9 sm:h-12 sm:w-12" draggable={false} />
+        <img src="icon.svg" alt="" className="h-9 w-9 sm:h-12 sm:w-12" draggable={false} />
         <h1 className="text-2xl font-black tracking-tight text-slate-800 sm:text-4xl">
           KosherTube <span className="text-blue-600">Kids</span>
         </h1>

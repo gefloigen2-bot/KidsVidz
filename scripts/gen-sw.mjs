@@ -7,10 +7,10 @@ const walk = (dir) =>
   readdirSync(dir).flatMap((f) => (statSync(join(dir, f)).isDirectory() ? walk(join(dir, f)) : [join(dir, f)]));
 
 const files = walk('dist')
-  .map((f) => '/' + relative('dist', f).split('\\').join('/'))
+  .map((f) => './' + relative('dist', f).split('\\').join('/'))
   .filter((p) => p !== '/sw.js' && !p.split('/').pop().startsWith('_'));
 
-const precache = ['/', ...files];
+const precache = ['./', ...files];
 const version = String(Date.now());
 const sw = readFileSync('public/sw.js', 'utf8')
   .replace("'__VERSION__'", JSON.stringify(version))
